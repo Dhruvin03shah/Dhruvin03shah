@@ -14,8 +14,6 @@ My goal is to craft **scalable, impactful projects** that bridge the gap between
 
 ---
 
-### Connect with me:  
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
