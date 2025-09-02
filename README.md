@@ -1,7 +1,8 @@
 # Hi 👋, I'm Dhruvin 
 
 I’m a passionate **tech explorer** 🔍 who loves building solutions with , Artificial Intelligence  and Machine Learning🤖.  
-My goal is to craft **scalable, impactful projects** that bridge the gap between ideas and real-world applications.  
+My goal is to craft **scalable, impactful projects** that bridge the gap between ideas and real-world applications. 
+
 ![Profile views](https://komarev.com/ghpvc/?username=dhruvin03shah&label=Profile%20views&color=0e75b6&style=flat)  
 
 
