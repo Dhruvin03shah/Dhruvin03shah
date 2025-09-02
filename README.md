@@ -1,4 +1,4 @@
-# Hi 👋, I'm Devaansh  
+# Hi 👋, I'm Dhruvin 
 
 I’m a passionate **tech explorer** 🔍 who loves building solutions with , Artificial Intelligence  and Machine Learning🤖.  
 My goal is to craft **scalable, impactful projects** that bridge the gap between ideas and real-world applications.  
@@ -8,7 +8,7 @@ My goal is to craft **scalable, impactful projects** that bridge the gap between
 ---
 
 - 🌱 I’m currently learning **AI/ML concepts**  
-- 📫 How to reach me **devaanshwork30@gmail.com**  
+- 📫 How to reach me **dhruvin03shah@gmail.com**  
 - ⚡ Fun fact: I **A coder by day, a guitarist by evening, and a gamer by night.**  
 
 ---
