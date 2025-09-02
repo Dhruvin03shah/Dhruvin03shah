@@ -17,9 +17,10 @@ My goal is to craft **scalable, impactful projects** that bridge the gap between
 
 <p align="left">
 <a href="https://www.instagram.com/dhruvinshah__/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
 </a>
 </p>
+
 
 
 
