@@ -31,14 +31,26 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,java,mysql,python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,mysql,git,docker,fastapi,gcp" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/N8N-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
